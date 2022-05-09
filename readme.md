@@ -16,7 +16,7 @@ This is a PHP wrapper for Dinero. Forked from [lasserafn/laravel-dinero](https:/
 1. Require using composer
 
 ```
-composer require lasserafn/php-dinero
+composer require waitlyapp/php-dinero
 ```
 
 ### Requirements
