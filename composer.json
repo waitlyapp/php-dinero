@@ -1,5 +1,5 @@
 {
-    "name": "lasserafn/php-dinero",
+    "name": "waitlyapp/php-dinero",
     "description": "Dinero REST wrapper for PHP",
     "keywords": ["laravel", "wrapper", "dinero", "api", "integration"],
     "license": "MIT",
